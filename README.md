@@ -1,9 +1,5 @@
 ### Hello, I'm Ben (TexaCaliDev) 👋
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my skills and mindset to become a better developer
 - 🌱 I’m currently learning HTML,CSS,JAVASCRIPT
 - 💬 You can ask me anything you'd want my aswer to.
